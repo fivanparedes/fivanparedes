@@ -23,4 +23,4 @@
 ### Connect with me:
 
 * [Personal website](https://fivanparedes.github.io)
-* [LinkedIn Profile](https://linkedin.com/fivanparedes)
+* [LinkedIn Profile](https://linkedin.com/in/fivanparedes)
