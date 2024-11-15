@@ -1,19 +1,20 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fernando Ivan
 =====================================================================================================================================
 
-Computing systems analyst
+Computing systems analyst & Data Science Teacher
 -------------------------
 
-I create IT solutions, specialized in backend technologies such as Laravel, Flask, ASP.NET, Golang, Docker, Podman.
+I create IT solutions, specialized in backend technologies such as Laravel, Symfony, Flask, Docker, Podman. I do have experience with Angular as front-end framework.
 
 * 🌍  I'm based in Argentina
+* 🧑‍🏫 I teach Data Science at [ESIM](https://esim.edu.ar/web/).
 * 🖥️  See my portfolio at [my personal website](http://fivanparedes.github.io)
-* ✉️  You can contact me at [fernandoivanparedes.99@gmail.com](mailto:fernandoivanparedes.99@gmail.com)
-* 🚀  I'm currently working on [Vises SRL](http://vises.com.ar)
-* 🧠  I'm learning Language Models and data science.
-* ⚡  I love teaching.
+* ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/fivanparedes/)
+* 🚀  I'm currently working on [DonWeb](https://donweb.com/es-ar/)
+* 🧠  I'm learning Data Engineering.
+* ⚡  I'm about to get a degree at Information Systems.
 
-### Skills
+### Other technologies, languages and skills
 
 
 <p align="left">
