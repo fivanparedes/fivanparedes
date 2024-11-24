@@ -7,7 +7,7 @@ Computing systems analyst & Data Science Teacher
 I create IT solutions, specialized in backend technologies such as Laravel, Symfony, Flask, Docker, Podman. I do have experience with Angular as front-end framework.
 
 * 🌍  I'm based in Argentina
-* 🧑‍🏫 I teach Data Science at [ESIM](https://esim.edu.ar/web/).
+* 🧑‍🏫 I teach Data Science at [ESIM](https://web.esim.edu.ar/).
 * 🖥️  See my portfolio at [my personal website](http://fivanparedes.github.io)
 * ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/fivanparedes/)
 * 🚀  I'm currently working on [DonWeb](https://donweb.com/es-ar/)
